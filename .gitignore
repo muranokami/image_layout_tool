@@ -1,0 +1,24 @@
+# venv
+venv/
+venv_old_py38/
+
+# secrets
+config/settings.yaml
+
+# generated / runtime data
+assets/cache/
+assets/uploads/
+output/
+logs/*.csv
+logs/*.log
+data/products/
+
+# python
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
+
+# editor/tool local state
+.claude/

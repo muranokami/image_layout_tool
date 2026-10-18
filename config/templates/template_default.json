@@ -1,0 +1,54 @@
+{
+  "canvas": {
+    "width": 1200,
+    "height": 1200,
+    "background_color": [255, 255, 255, 255]
+  },
+  "layers": [
+    {
+      "type": "background",
+      "z": 0,
+      "box": [0, 0, 1200, 1200],
+      "fit": "cover"
+    },
+    {
+      "type": "illustration",
+      "z": 1,
+      "box": [0, 0, 1200, 1200],
+      "fit": "cover",
+      "opacity": 1.0
+    },
+    {
+      "type": "product_image",
+      "z": 2,
+      "box": [250, 260, 950, 900],
+      "fit": "contain"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "z": 3,
+      "field": "title_text",
+      "box": [40, 40, 1160, 220],
+      "font": "NotoSansJP-Bold.otf",
+      "font_size": 68,
+      "color": [30, 30, 30, 255],
+      "align": "center",
+      "valign": "middle",
+      "line_spacing": 1.15
+    },
+    {
+      "type": "text",
+      "id": "sub",
+      "z": 4,
+      "field": "sub_text",
+      "box": [40, 980, 1160, 1160],
+      "font": "NotoSansJP-Regular.otf",
+      "font_size": 38,
+      "color": [70, 70, 70, 255],
+      "align": "center",
+      "valign": "middle",
+      "line_spacing": 1.2
+    }
+  ]
+}

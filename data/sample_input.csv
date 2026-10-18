@@ -1,0 +1,4 @@
+id,template_id,product_image_path,title_text,sub_text,bg_prompt,bg_asset_path,illust_prompt,illust_asset_path,output_filename
+item001,template_default,data/products/item001.png,春の新作コート,数量限定 早期予約特典あり,やわらかい春の光が差し込むパステルカラーのグラデーション背景 商品撮影用 余白多め,,淡いピンクの桜の花びらが舞う 上品なイラスト 背景は透明,,item001.png
+item002,template_default,data/products/item002.png,夏の涼感Tシャツ,吸汗速乾素材使用,青空と入道雲を背景にした爽やかな夏らしいグラデーション背景 商品撮影用 余白多め,,白い波と貝殻のワンポイントイラスト 背景は透明,,item002.png
+item003,template_default,data/products/item003.png,秋の贈り物ギフトセット,今だけ送料無料,紅葉と暖色系のグラデーション背景 商品撮影用 余白多め,,落ち葉が舞う秋らしいイラスト 背景は透明,,item003.png
